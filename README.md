@@ -1,2 +1,2 @@
 # go-task
-some goroutines work
+some golang practices
